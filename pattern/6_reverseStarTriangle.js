@@ -7,7 +7,7 @@
 console.log("Reverse Star Triangle Pattern Right Angle");
 
 function starPattern(n) {
-  console.log("Number Pattern for Given Number  =", n);
+  console.log("Star Pattern for Given Number  =", n);
   let totalStar = 0;
   for (let i = 0; i < n; i++) {
     let row = "";
